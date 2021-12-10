@@ -30,6 +30,7 @@ can be configured with \code{\link[=tar_config_set]{tar_config_set()}}.
 \seealso{
 Other scripts: 
 \code{\link{tar_github_actions}()},
+\code{\link{tar_google_cloudbuild}()},
 \code{\link{tar_helper_raw}()},
 \code{\link{tar_helper}()},
 \code{\link{tar_renv}()},

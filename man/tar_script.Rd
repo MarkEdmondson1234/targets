@@ -87,6 +87,7 @@ writeLines(readLines("_targets.R"))
 Other scripts: 
 \code{\link{tar_edit}()},
 \code{\link{tar_github_actions}()},
+\code{\link{tar_google_cloudbuild}()},
 \code{\link{tar_helper_raw}()},
 \code{\link{tar_helper}()},
 \code{\link{tar_renv}()}
