@@ -6,8 +6,7 @@ RUN apt-get update && apt-get install -y \
     libglpk40 build-essential
 
 RUN ["install2.r", \
-     "targets",
-     "renv"]
+     "targets", "renv"]
 
 WORKDIR /usr/local/
 COPY . ./
